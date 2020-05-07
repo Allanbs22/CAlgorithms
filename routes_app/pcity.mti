@@ -1,0 +1,6 @@
+New York,Los Angeles,Caracas,San Jose,Mexico DF
+0,-1,-1,-1,1
+-1,0,-1,-1,-1
+-1,1,0,-1,-1
+-1,-1,1,0,-1
+-1,-1,-1,1,0
